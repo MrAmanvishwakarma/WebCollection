@@ -19,7 +19,7 @@
 ***
 ***
 
-# [📺 Movies / TV / Anime](https://github.com/fmhy/FMHY/wiki/%F0%9F%93%BA-Movies---TV---Anime---Sports)
+# [📺 Movies / TV / Anime](https://github.com/MrAmanvishwakarma/Websites/wiki/%F0%9F%93%BA-Movies-TV-Anime-Sports)
 
 **Stream Videos, Download Videos, Torrent Videos**
 
