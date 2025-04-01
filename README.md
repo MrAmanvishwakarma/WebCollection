@@ -33,7 +33,7 @@
 ***
 ***
 
-# [🎮 Gaming / Emulation](https://github.com/fmhy/FMHY/wiki/%F0%9F%8E%AE-Gaming---Emulation)
+# [🎮 Gaming / Emulation](https://github.com/MrAmanvishwakarma/Websites/wiki/%F0%9F%8E%AE-Gaming-Emulation)
 
 **Download Games, ROMs, Gaming Tools**
 
