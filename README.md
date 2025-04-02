@@ -96,21 +96,21 @@
 ***
 ***
 
-# [📂 Miscellaneous](https://github.com/fmhy/FMHY/wiki/%F0%9F%93%82-Miscellaneous)
+# [📂 Miscellaneous](https://github.com/MrAmanvishwakarma/WebCollection/wiki/%F0%9F%93%82-Miscellaneous)
 
 **Extensions, Indexes, News, Health, Food, Fun**
 
 ***
 ***
 
-# [🔒 Backups](https://github.com/fmhy/FMHY/wiki/Backups)
+# [🔒 Backups](https://github.com/#/#/wiki/Backups)
 
-**FMHY Backups**
+**# Backups**
 
 ***
 ***
 
-# [💬 Discord](https://rentry.co/fmhy-invite)
+# [💬 Discord](https://rentry.co/#-invite)
 
 **Chat, Get Help, Suggest Sites**
 
@@ -122,11 +122,11 @@
 ***
 ***
 
-**[Search FMHY](https://redd.it/105xraz)** - Search the Entire Wiki
+**[Search #](https://redd.it/105xraz)** - Search the Entire Wiki
 
-**[Edit FMHY](https://fmhy.net/other/contributing)** - Make Changes to the Wiki
+**[Edit #](https://#.net/other/contributing)** - Make Changes to the Wiki
 
-**[Selfhost FMHY](https://fmhy.net/other/selfhosting)** - FMHY Selfhosting Guide
+**[Selfhost #](https://#.net/other/selfhosting)** - # Selfhosting Guide
 
 **[Site Hunting Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/find-new-sites)** - Help Find New Sites
 
@@ -143,4 +143,4 @@
 
 ***
 
-[made with ❤️](https://fmhy.net/feedback)
+[made with ❤️](https://#.net/feedback)
