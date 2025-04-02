@@ -40,28 +40,28 @@
 ***
 ***
 
-# [📗 Books / Comics / Manga](https://github.com/fmhy/FMHY/wiki/%F0%9F%93%97-Books---Comics---Manga)
+# [📗 Books / Comics / Manga](https://github.com/MrAmanvishwakarma/WebCollection/wiki/%F0%9F%93%97-Books-Comics-Manga)
 
 **Books, Comics, Magazines, Newspapers**
 
 ***
 ***
 
-# [💾 Downloading](https://github.com/fmhy/FMHY/wiki/%F0%9F%92%BE-Downloading)
+# [💾 Downloading](https://github.com/MrAmanvishwakarma/WebCollection/wiki/%F0%9F%92%BE-Downloading)
 
 **Download Sites, Software Sites, Open Directories**
 
 ***
 ***
 
-# [🌀 Torrenting](https://github.com/fmhy/FMHY/wiki/%F0%9F%8C%80-Torrenting)
+# [🌀 Torrenting](https://github.com/MrAmanvishwakarma/WebCollection/wiki/%F0%9F%8C%80-Torrenting)
 
 **Torrent Clients, Torrent Sites, Trackers**
 
 ***
 ***
 
-# [🧠 Educational](https://github.com/fmhy/FMHY/wiki/%F0%9F%A7%A0-Educational)
+# [🧠 Educational](https://github.com/MrAmanvishwakarma/WebCollection/wiki/%F0%9F%A7%A0-Educational)
 
 **Courses, Documentaries, Learning Resources**
 
@@ -75,7 +75,7 @@
 ***
 ***
 
-# [📱 Android / iOS](https://github.com/fmhy/FMHY/wiki/%F0%9F%93%B1-Android---iOS)
+# [📱 Android / iOS](https://github.com/MrAmanvishwakarma/WebCollection/wiki/%F0%9F%93%B1-Android-iOS)
 
 **Apps, Jailbreaking, Android Emulators**
 
