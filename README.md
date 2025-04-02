@@ -82,14 +82,14 @@
 ***
 ***
 
-# [🐧 Linux / macOS](https://github.com/fmhy/FMHY/wiki/%F0%9F%90%A7-Linux---MacOS)
+# [🐧 Linux / macOS](https://github.com/MrAmanvishwakarma/WebCollection/wiki/%F0%9F%90%A7-Linux-MacOS)
 
 **Apps, Software Sites, Gaming**
 
 ***
 ***
 
-# [🌏 Non-English](https://github.com/fmhy/FMHY/wiki/%F0%9F%8C%8F-Non-English)
+# [🌏 Non-English](https://github.com/MrAmanvishwakarma/WebCollection/wiki/%F0%9F%8C%8F-Non-English)
 
 **International Piracy Sites** 
 
